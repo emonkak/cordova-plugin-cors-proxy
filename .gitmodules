@@ -1,0 +1,3 @@
+[submodule "src/ios/GCDWebServer"]
+	path = src/ios/GCDWebServer
+	url = https://github.com/swisspol/GCDWebServer

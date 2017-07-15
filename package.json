@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-cors-proxy",
+  "version": "0.0.0",
+  "description": "Cordova CORS Proxy Plugin",
+  "cordova": {
+    "id": "cordova-plugin-cors-proxy",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emonkak/cordova-plugin-cors-proxy"
+  },
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=4.1.0"
+    }
+  ],
+  "author": "Shota Nozaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emonkak/cordova-plugin-cors-proxy/issues"
+  },
+  "homepage": "https://github.com/emonkak/cordova-plugin-cors-proxy"
+}
